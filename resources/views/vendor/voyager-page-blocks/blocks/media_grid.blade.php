@@ -18,7 +18,7 @@
     $heading = 'heading_'.app()->getLocale();
 @endphp
 <div id="{{ $blockData->id }}" class="section-fourth {{ $class }}" data-wow-duration="2s" data-wow-offset="350" style="
-    @if(!empty($blockData->margin)) margin: {{ $blockData->margin }}; @endif 
+    @if(!empty($blockData->margin)) margin: {{ $blockData->margin }}; @endif
     @if(!empty($blockData->padding)) padding: {{ $blockData->padding }}; @endif">
     <div class="site-width">
         <div class="container-fluid-fourth-section ">
