@@ -15,7 +15,7 @@
         "cross-env": "^5.1",
         "foundation-sites": "^6.5.3",
         "jquery": "^3.4.0",
-        "laravel-mix": "^1.0",
+        "laravel-mix": "^6.0",
         "lodash": "^4.17.4",
         "motion-ui": "^2.0.3",
         "scrollreveal": "^4.0.5",
